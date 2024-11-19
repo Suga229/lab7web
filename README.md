@@ -10,3 +10,6 @@
 
 ![image](https://github.com/user-attachments/assets/cbd8f04e-4db9-4c17-b7da-80965d692ff9)
 
+<h1>3. php dasar</h1>
+<h4>buat file baru dengan nama php_dasar.php pada directory tersebut</h4>
+
